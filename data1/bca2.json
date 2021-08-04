@@ -2,32 +2,32 @@
     "monday": 
     {
         "h1":{
-            "fullname":"E-Commerce",
-            "shortname":"ECOM",
-            "teacher":"Alka Mohan",
+            "fullname":"PC1",
+            "shortname":"PC",
+            "teacher":"Haneesh KP",
             "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "link":"https://meet.google.com/uzx-cryn-itn"
         },
         "h2":{
-            "fullname":"Data Communications....",
-            "shortname":"DCF",
-            "teacher":"Arshad PT",
+            "fullname":"OR1",
+            "shortname":"OR",
+            "teacher":"Faseela V",
             "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "link":"https://meet.google.com/uzx-cryn-itn"
         },
         "h3":{
-            "fullname":"Computer Graphics",
-            "shortname":"CG",
-            "teacher":"Abdul Samad",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjIyODMzNzgwODAw?cjc=sqh6g3c"
+            "fullname":"English",
+            "shortname":"ENG",
+            "teacher":"Jouhara KP",
+            "platform":"Meet",
+            "link":"https://meet.google.com/enk-fmze-ius"
         },
         "h4":{
-            "fullname":"Database Management..",
-            "shortname":"DBMS",
-            "teacher":"Arshad PT",
+            "fullname":"LANG1",
+            "shortname":"LANG",
+            "teacher":"Malayalam , Arabic , Hindi",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA4NDc5NDUz?cjc=eseuxod"
+            "link":""
         },
         "h5":{
             "fullname":"Microprocessors & Arc..",
@@ -44,21 +44,21 @@
             "shortname":"DBMS",
             "teacher":"Arshad PT",
             "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "link":"https://meet.google.com/uzx-cryn-itn"
         },
         "h2":{
             "fullname":"Microprocessors & Arc..",
             "shortname":"MP",
             "teacher":"Abdul Samad",
             "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "link":"https://meet.google.com/uzx-cryn-itn"
         },
         "h3":{
-            "fullname":"E-Commerce",
-            "shortname":"ECOM",
-            "teacher":"Alka Mohan",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTk0MjQ3NjU0?cjc=yil5xw3"
+            "fullname":"LANG1",
+            "shortname":"LANG",
+            "teacher":"Malayalam , Arabic , Hindi",
+            "platform":"Meet",
+            "link":"#lang"
         },
         "h4":{
             "fullname":"Database Management..",
@@ -82,21 +82,21 @@
             "shortname":"DCF",
             "teacher":"Arshad PT",
             "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "link":"https://meet.google.com/uzx-cryn-itn"
         },
         "h2":{
             "fullname":"Computer Graphics",
             "shortname":"CG",
             "teacher":"Abdul Samad",
             "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "link":"https://meet.google.com/uzx-cryn-itn"
         },
         "h3":{
-            "fullname":"Database Management..",
-            "shortname":"DBMS",
-            "teacher":"Arshad PT",
+            "fullname":"LANG1",
+            "shortname":"LANG",
+            "teacher":"Malayalam , Arabic , Hindi",
             "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "link":"#lang"
         },
         "h4":{
             "fullname":"E-Commerce",
@@ -120,21 +120,21 @@
             "shortname":"MP",
             "teacher":"Manju S Thomas",
             "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "link":"https://meet.google.com/uzx-cryn-itn"
         },
         "h2":{
             "fullname":"E-Commerce",
             "shortname":"ECOM",
             "teacher":"Alka Mohan",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTk0MjQ3NjU0?cjc=yil5xw3"
+            "link":"https://meet.google.com/uzx-cryn-itn"
         },
         "h3":{
-            "fullname":"Computer Graphics",
-            "shortname":"CG",
-            "teacher":"Abdul Samad",
+            "fullname":"LANG1",
+            "shortname":"LANG",
+            "teacher":"Malayalam , Arabic , Hindi",
             "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "link":"#lang"
         },
         "h4":{
             "fullname":"Database Management..",
@@ -158,7 +158,7 @@
             "shortname":"DBMS",
             "teacher":"Arshad PT",
             "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "link":"https://meet.google.com/uzx-cryn-itn"
         },
         "h2":{
             "fullname":"Add-On",
@@ -172,7 +172,7 @@
             "shortname":"DCF",
             "teacher":"Arshad PT",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTg5Njc4ODgw?cjc=76tjoal"
+            "link":"https://meet.google.com/uzx-cryn-itn"
         },
         "h4":{
             "fullname":"Computer Graphics",
